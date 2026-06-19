@@ -16,7 +16,7 @@
 <a href="https://www.linkedin.com/in/nafissmf">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:youremail@example.com">
+<a href="mailto:nafismufadhal21@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=for-the-badge"/>
@@ -33,7 +33,7 @@ name: "Nafis Mufadhal"
 education: "M.S. Information Systems (S2 Sistem Informasi) @ Universitas Diponegoro"
 background: "B.S. Informatics Engineering — GPA 3.57"
 current_focus: "Thesis: Integrated DeLone&McLean + UTAUT2 + Affordance Model (PLS-SEM, n=267)"
-publication: "Journal article in submission @ JUTIF (SINTA 2)"
+publication: "Journal article in submission (SINTA 2)"
 cloud_certified: "Bangkit Academy x Google Cloud — Cloud Computing Track"
 leadership: "Ketua HMIF (82 members) — organizational strategy & ops"
 status: "🟢 Open to work — Data / IT / Project Management / Operations"
@@ -127,7 +127,7 @@ Building full-stack web apps end-to-end — database design (MySQL) to clean, fu
 </td>
 <td width="33%">
 <h3 align="center">💼 Laravel Project</h3>
-<p align="center">Freelance web application — replace with project name & impact-driven description.</p>
+<p align="center">Freelance web application </p>
 <p align="center"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/></p>
 <p align="center"><a href="https://github.com/nafissmf/repo">View Repo →</a></p>
 </td>
