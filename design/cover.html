@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Outfit:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    html, body { width: 1400px; height: 780px; overflow: hidden; background: #0b0c0a; }
+    .cover {
+      width: 1400px;
+      height: 780px;
+      position: relative;
+      overflow: hidden;
+      background:
+        radial-gradient(820px 480px at 92% -10%, rgba(214, 255, 74, 0.18), transparent 60%),
+        radial-gradient(640px 420px at -10% 110%, rgba(243, 239, 228, 0.05), transparent 55%),
+        #0b0c0a;
+      color: #f3efe4;
+      font-family: Outfit, sans-serif;
+    }
+    .grid {
+      position: absolute;
+      inset: 0;
+      background-image:
+        linear-gradient(rgba(243, 239, 228, 0.045) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(243, 239, 228, 0.045) 1px, transparent 1px);
+      background-size: 88px 88px;
+    }
+    .ghost {
+      position: absolute;
+      right: -40px;
+      bottom: 78px;
+      font-family: "Instrument Serif", serif;
+      font-style: italic;
+      font-size: 280px;
+      line-height: 0.8;
+      color: rgba(243, 239, 228, 0.045);
+      letter-spacing: -0.04em;
+      user-select: none;
+    }
+    .frame {
+      position: absolute;
+      inset: 26px;
+      border: 1px solid rgba(243, 239, 228, 0.16);
+      pointer-events: none;
+    }
+    .kicker, .index {
+      position: absolute;
+      top: 58px;
+      font-size: 13px;
+      letter-spacing: 0.38em;
+      font-weight: 500;
+    }
+    .kicker { left: 64px; color: #d6ff4a; }
+    .index { right: 64px; color: rgba(243, 239, 228, 0.5); letter-spacing: 0.28em; }
+    h1 {
+      position: absolute;
+      left: 60px;
+      top: 150px;
+      font-family: "Instrument Serif", Georgia, serif;
+      font-weight: 400;
+      font-size: 156px;
+      line-height: 0.84;
+      letter-spacing: -0.035em;
+    }
+    h1 em { font-style: italic; color: #d6ff4a; }
+    .rule {
+      position: absolute;
+      left: 68px;
+      top: 448px;
+      width: 92px;
+      height: 3px;
+      background: #d6ff4a;
+    }
+    .sub {
+      position: absolute;
+      left: 68px;
+      top: 472px;
+      width: 620px;
+      font-size: 26px;
+      font-weight: 300;
+      line-height: 1.35;
+      color: rgba(243, 239, 228, 0.82);
+    }
+    .roles {
+      position: absolute;
+      right: 64px;
+      top: 188px;
+      width: 340px;
+    }
+    .roles div {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      border-top: 1px solid rgba(243, 239, 228, 0.22);
+      padding: 16px 0 15px;
+      font-size: 15px;
+      letter-spacing: 0.16em;
+      font-weight: 500;
+    }
+    .roles div:last-child { border-bottom: 1px solid rgba(243, 239, 228, 0.22); }
+    .roles span { color: #d6ff4a; letter-spacing: 0.08em; font-weight: 500; }
+    .bar {
+      position: absolute;
+      left: 46px;
+      right: 46px;
+      bottom: 46px;
+      height: 62px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 28px;
+      background: #d6ff4a;
+      color: #14160f;
+      font-size: 13px;
+      letter-spacing: 0.2em;
+      font-weight: 600;
+    }
+  </style>
+</head>
+<body>
+  <div class="cover">
+    <div class="grid"></div>
+    <div class="ghost">data</div>
+    <div class="frame"></div>
+    <div class="kicker">INFORMATION SYSTEMS</div>
+    <div class="index">SEMARANG · 2026</div>
+    <h1>Nafis<br><em>Mufadhal</em></h1>
+    <div class="rule"></div>
+    <p class="sub">I turn messy operational data into systems a team can actually use.</p>
+    <div class="roles">
+      <div><span>01</span>DATA ANALYST</div>
+      <div><span>02</span>DATA ENGINEER</div>
+      <div><span>03</span>SYSTEMS ANALYST</div>
+      <div><span>04</span>WEB DEVELOPER</div>
+    </div>
+    <div class="bar">
+      <span>OPEN TO WORK</span>
+      <span>UNIVERSITAS DIPONEGORO</span>
+      <span>S2 SISTEM INFORMASI</span>
+    </div>
+  </div>
+</body>
+</html>
