@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:8B5CF6,100:EC4899&height=260&section=header&text=Nafis%20Mufadhal&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Data%20Analyst%20%E2%80%A2%20Data%20Engineer%20%E2%80%A2%20Systems%20Analyst%20%E2%80%A2%20Web%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://raw.githubusercontent.com/nafissmf/nafissmf/main/assets/header.svg" alt="Nafis Mufadhal — Data Analyst, Data Engineer, Systems Analyst, Web Developer" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Turning+raw+data+into+decisions;Building+reliable+data+pipelines;Bridging+business+needs+and+systems;Building+full-stack+web+applications&font=Fira+Code&center=true&width=620&height=46&color=00E5FF&vCenter=true&size=22&pause=1400&duration=3200"/>
 
@@ -15,16 +15,16 @@
 ![Thesis](https://img.shields.io/badge/PLS--SEM-n%20%3D%20267-8B5CF6?style=flat-square&labelColor=0d1117)
 ![Publication](https://img.shields.io/badge/JUTIF-SINTA%202%20(submitted)-EC4899?style=flat-square&labelColor=0d1117)
 ![Community](https://img.shields.io/badge/HMIF-82%20members-06B6D4?style=flat-square&labelColor=0d1117)
-![Profile views](https://komarev.com/ghpvc/?username=nafissmf&label=Profile%20views&color=8B5CF6&style=flat-square&labelColor=0d1117)
+![Profile views](https://hits.sh/github.com/nafissmf.svg?style=flat-square&label=Profile%20views&color=8B5CF6&labelColor=0d1117)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:8B5CF6,100:EC4899&height=3&section=header" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/nafissmf/nafissmf/main/assets/divider.svg" width="100%" alt=""/>
 
 ## ✨ About
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=%24+whoami;%3E+Nafis+Mufadhal+%7C+Information+Systems+%40+Universitas+Diponegoro;%24+cat+focus.txt;%3E+analysis+%C2%B7+data+%C2%B7+web+systems;%24+.%2Fstatus.sh;%3E+%E2%97%8F+OPEN+TO+WORK&font=Fira+Code&size=16&color=00E5FF&width=760&height=190&multiline=true&repeat=true&duration=2600&pause=1800&vCenter=true&center=false&separator=%3B" alt="Terminal intro"/>
+  <img src="https://raw.githubusercontent.com/nafissmf/nafissmf/main/assets/terminal.svg" alt="Terminal intro" width="100%"/>
 </div>
 
 <br/>
@@ -36,7 +36,7 @@ Information Systems graduate student at Universitas Diponegoro, with a backgroun
 - 🧭 **Leadership:** Chair of HMIF (82 members), covering organizational strategy and day-to-day operations.
 - 🎯 **Open to:** Data analysis, data engineering, IT, project management, and operations roles.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:8B5CF6,100:EC4899&height=3&section=header" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/nafissmf/nafissmf/main/assets/divider.svg" width="100%" alt=""/>
 
 ## 🧩 What I do
 
@@ -47,7 +47,7 @@ Information Systems graduate student at Universitas Diponegoro, with a backgroun
 | 🧠 **Systems Analyst** | Requirements, system modeling, and IT governance (COBIT, ISO/IEC 38500). |
 | 🌐 **Web Developer** | Full-stack apps from MySQL design through Laravel, PHP, and JavaScript interfaces. |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:8B5CF6,100:EC4899&height=3&section=header" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/nafissmf/nafissmf/main/assets/divider.svg" width="100%" alt=""/>
 
 ## 🧰 Tech
 
@@ -60,7 +60,7 @@ Information Systems graduate student at Universitas Diponegoro, with a backgroun
   <img src="https://img.shields.io/badge/ISO%2FIEC%2038500-EC4899?style=for-the-badge" alt="ISO/IEC 38500"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:8B5CF6,100:EC4899&height=3&section=header" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/nafissmf/nafissmf/main/assets/divider.svg" width="100%" alt=""/>
 
 ## 🚀 Selected work
 
@@ -100,7 +100,7 @@ Information Systems graduate student at Universitas Diponegoro, with a backgroun
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:8B5CF6,100:EC4899&height=3&section=header" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/nafissmf/nafissmf/main/assets/divider.svg" width="100%" alt=""/>
 
 ## 📈 Activity
 
@@ -127,6 +127,8 @@ Information Systems graduate student at Universitas Diponegoro, with a backgroun
 
 </div>
 
+<img src="https://raw.githubusercontent.com/nafissmf/nafissmf/main/assets/footer.svg" width="100%" alt="Let's build something useful together"/>
+
 <div align="center">
 
 **Open to data, IT, project, and operations roles.**
@@ -134,7 +136,5 @@ Information Systems graduate student at Universitas Diponegoro, with a backgroun
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nafissmf-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nafissmf)
 [![Email](https://img.shields.io/badge/Email-nafismufadhal21%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nafismufadhal21@gmail.com)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--3306--1512-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-3306-1512)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:8B5CF6,100:06B6D4&height=150&section=footer&text=Let%27s%20build%20something%20useful%20together&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=30" width="100%"/>
 
 </div>
