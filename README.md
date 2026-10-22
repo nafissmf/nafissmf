@@ -116,7 +116,7 @@ Information Systems graduate student at Universitas Diponegoro, with a backgroun
 
 <br/><br/>
 
-<img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=nafissmf&bg_color=0d1117&color=8B5CF6&line=06B6D4&point=EC4899&area=true&area_color=8B5CF6&hide_border=true&radius=12&custom_title=Contribution%20Graph" width="100%"/>
+<img alt="Contribution calendar" src="https://ghchart.rshah.org/8B5CF6/nafissmf" width="100%"/>
 
 <br/>
 
