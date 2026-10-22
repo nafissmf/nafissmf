@@ -116,8 +116,6 @@ Information Systems graduate student at Universitas Diponegoro, with a backgroun
 
 <br/><br/>
 
-<img alt="Contribution calendar" src="https://ghchart.rshah.org/8B5CF6/nafissmf" width="100%"/>
-
 <br/>
 
 <picture>
